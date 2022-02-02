@@ -1,1 +1,1 @@
-![Typescript on TodoApp](todo_screenshot)
+![Typescript on TodoApp](todo_screenshot.png)
